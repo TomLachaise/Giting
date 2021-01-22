@@ -25,8 +25,6 @@ require(crunch)
 require(ggthemes)
 require(scales)  # for percentage scales
 
-# new changes
-
 #### Data loading ####
 
 # Load the datasets of LM results
